@@ -5,11 +5,8 @@
 
 3.Añádele el fichero de inicio. En él aparecerá una tabla html con las siguientes columnas: 
   3.1 Nombre y apellidos del alumno.
-  
   3.2 Usuario github.
- 
   3.3 Enlace al repositorio HolaMundo de github.
-  
   3.4 Enlace al hosting de este repositorio HolaMundo de github.
 
 4.Añade el fichero style.css en la carpeta css. 
